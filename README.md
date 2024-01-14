@@ -41,5 +41,8 @@ I filen [index.html](index.html), mangler alle de overordnede semantiske tags.
 
 Du skal rette filen til, så den bliver semantisk korrekt og du skal tilføje tilgængeligheds-attributter, så filen er lettere at bruge for folk med nedsat evne.
 
-### Aflevering
-Du skal aflevere på GitHub gennem en pull-request. Husk at pushe ofte.
+**Aflevering**
+
+Din aflevering foregår på GitHub, så dit sidste commit/push er din aflevering.
+
+Du skal aflevere i classroom-repositoriet.
